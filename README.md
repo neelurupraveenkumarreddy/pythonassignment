@@ -1,5 +1,92 @@
 # pythonassignment
-#about gihub
+
+#about questions in my assignment
+
+*********inttorom.py********
+
+ this program converts any interger from 1 to 3999 into roman number.
+ Ex: 2045 in roman numbers is MMXLV
+
+*********leapyear.py*********
+ this program finds wheather given year is a leap year or not.
+ ex: 1900 is not a leap year
+
+*********listnumber.py*********
+ this program at first converts a group of list into a programm and add 1 to it 
+ again conert it into list
+ adding 1 to given number in a list form
+  Input: digits = [1,2,3]
+  Output: [1,2,4]
+  Explanation: The array represents the integer 123.
+  Incrementing by one gives 123 + 1 = 124.
+  Thus, the result will be [1,2,4].
+
+***********maxvolume.py*********
+ this program finds the max area that is max water that two diiferent indexed elements can store
+ we are given an integer array height of length n. There are n vertical lines drawn such that the two
+ endpoints of the ith line are (i, 0) and (i, height[i]).
+ Find two lines that together with the x-axis form a container, such that the container contains the most water.
+ Return the maximum amount of water a container can store.
+ Notice that you may not slant the container.
+ Input: height = [1,8,6,2,5,4,8,3,7]
+ Output: 49
+ Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water
+ (blue section) the container can contain is 49.
+
+*************medianoftwosortedarrays************
+ this program finds the median of two sorted lists/array of numbers.
+ median of two sorted arrays
+ Example 1:
+ Input: nums1 = [1,3], nums2 = [2]
+ Output: 2.00000
+ Explanation: merged array = [1,2,3] and median is 2.
+ Example 2:
+ Input: nums1 = [1,2], nums2 = [3,4]
+ Output: 2.50000
+ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
+
+**********palindrome.py*********************
+ this program finds wheather given string is a palindrome or not
+ palindrome
+ Input: x = 121
+ Output: true
+ Explanation: 121 reads as 121 from left to right and from right to left.
+
+**********palindromess.py*********************
+ this program finds the palindromes in the given list 
+ and prints palindromes position in given list
+ Input: words = ["abcd","dcba","lls","s","sssll"]
+ Output: [[0,1],[1,0],[3,2],[2,4]]
+ Explanation: The palindromes are ["abcddcba","dcbaabcd","slls","llssssll"]
+
+**************phonenumbers.py******************
+ this program basically concatenates the charaters present at given numbers in a key pad phone and gives output as list
+ inear combination of a phone number
+ Example 1:
+ Input: digits = "23"
+ Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+ Example 2:
+ Input: digits = ""
+ Output: []
+ Example 3:
+ Input: digits = "2"
+ Output: ["a","b","c"]
+
+*************reversweinteger.py**********
+ this program reverse the integer without changing the sign
+ reversing an integer
+ Input: x = -123
+ Output: -321
+
+*************tagetpositions.py***********
+ this program adds every elemnt in the program with the other and finds if the key is equal to their sum
+ and return the poistion of added numbers to give the value of target
+ Input: nums = [2,7,11,15], target = 9
+ Output: [0,1]
+ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+#################### ABOUT GITHUB ##########################
+
 ************** What is github & git ?  *****************
 
 Git is an open-source, Version control tool created in 2005 by developers working on the Linux operating system;
