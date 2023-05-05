@@ -1,6 +1,4 @@
 # pythonassignment
-#about questions
-
 #about gihub
 ************** What is github & git ?  *****************
 
