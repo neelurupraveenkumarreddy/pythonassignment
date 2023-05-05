@@ -104,6 +104,11 @@ Companies and educational institutions use it to make coding tasks easier, faste
 company that works on different projects which require development in the form of files can use this service. For 
 example, content and marketing teams can use GitHub to organize their projects.
 
+************* What is version control*****************
+
+Version control helps developers track and manage changes to a software projects code
+as software grows , version control becomes essential
+
 ************** what are repositories ? ****************
 
 In GitHub, a repository is similar to a folder and becomes a folder that is available online on the cloud for people
@@ -170,3 +175,9 @@ To create a pull request in GitHub, you need to follow these steps:
 ***    After creating a pull request, you can wait for the repository owners or collaborators to review your changes, comment on
        them, suggest modifications, or approve them. You can also update your pull request by pushing more commits to your branch.
        Once your pull request is ready to be merged, you or someone else can click on the Merge pull request button.
+************competiters**********
+*     gitlab
+*     bitbucket
+*     sourceforge
+*     circle ci
+*     g2 deals
