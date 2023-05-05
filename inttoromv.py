@@ -1,6 +1,6 @@
 # printing an roman number form of an integer
-ones=['','I','II','III','IV','V','VI','VII','VIII','XI']
-tens=['','X','XX','XXX','LX','L','LX','LXX','LXXX','XC']
+ones=['','I','II','III','IV','V','VI','VII','VIII','IX']
+tens=['','X','XX','XXX','XL','L','LX','LXX','LXXX','XC']
 huns=['','C','CC','CCC','CD','D','DC','DCC','DCCC','DM']
 thus=['','M','MM','MMM']
 k=input()
